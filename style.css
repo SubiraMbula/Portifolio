@@ -56,13 +56,10 @@ ul li{
     color: black;
 }
 #background{
-    border-right: black;
-    border-style: solid;
-    border-top: 0em;
-    border-bottom: 0em;
-    border-left: 0em;
+    margin-right: 0.1ch,solid black;
     transform: translateX(5em)
      translateY(2em)
+    
     
 }
 .main2{
