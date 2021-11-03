@@ -67,22 +67,31 @@ ul li{
 }
 .works h1{
     text-align: center;
+    color:black;
 }
 #photo a{
  text-align: left;
 }
 #street{
-    display: flex;
-    transform: translateX(40em)
-    translateY(-19em);
+    position: relative;
+    /*display: flex;*/
+    transform: translateX(60em)
+    translateY(-15em);
 }
 #plumbing{
-    display: flex;
-    transform: translateX(15em)
-    translateY(-11em);
+    position: relative;
+    /*display: flex;*/
+    transform: translateX(32em)
+    translateY(-15em);
 }
 .works{
+    color: white;
     background-color: rgba(116, 76, 76, 0.788);
     padding-top: 2em;
+}
+
+#photo{
+    transform: translateY(3em)
+    translateX(8em);
 }
 
