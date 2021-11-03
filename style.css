@@ -47,6 +47,10 @@ ul li{
     text-align: center;
     font-size: 22px;
 }
+.main1 a{
+    font-size: 15px;
+    color: darkred;
+}
 .main2 h1{
     text-align: center;
     color: black;
@@ -105,4 +109,23 @@ ul li{
     background-color: rgb(173, 95, 95);
     padding-top: 2em;
     align-items: center;
+}
+.contact p{
+    text-align: center;
+}
+#one{
+    position: relative;
+    transform: translateX(10em);
+}
+#two{
+ position: relative;
+ transform: translate(30em,-3em);
+}
+#three{
+    position: relative;
+    transform: translate(50em,-6em);
+}
+#four{
+    position: relative;
+    transform: translate(70em,-9em);
 }
