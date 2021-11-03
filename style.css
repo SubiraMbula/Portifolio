@@ -1,0 +1,131 @@
+.navigation{
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    /*padding-top: 2em;
+    height: 2em;
+    position: relative;*/
+}
+nav{
+    background-color: rgb(216, 200, 200);
+    width: 100%;
+    float: left;
+    font-size: 14px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 2em;
+    
+} 
+ul{
+    list-style-type: none;
+    /*margin: 0em;
+    padding: 2em;*/
+    overflow: visible;
+    background-color: inherit;
+   /* height: 100%;
+    width: 100%;*/
+}
+ul li{
+    justify-content: space-between;
+    float: right;
+    
+}
+.navigation a{
+    padding: 3em;
+    
+}
+#subby img{
+    border-radius: 50%;
+    float: right;
+    transform: translate(-8em,-2em);
+}
+.main1{
+    background-color: rgba(78, 58, 58, 0.795);
+    color: white;
+    padding-top: 5em;
+    padding-bottom: 5em;
+    text-align: center;
+    font-size: 22px;
+}
+.main1 a{
+    font-size: 15px;
+    color: darkred;
+}
+.main2 h1{
+    text-align: center;
+    color: black;
+}
+#background{
+    border-right: black;
+    border-style: solid;
+    border-top: 0em;
+    border-bottom: 0em;
+    border-left: 0em;
+    transform: translateX(5em)
+     translateY(2em)
+    
+}
+.main2{
+    background-color: rgba(44, 10, 10, 0.596);
+    color: white;
+    padding-bottom:10em;
+    padding-top: 2em;
+}
+#hobbies{
+    position: relative;
+    float: right;
+    transform: translate(-10em,-7em);
+}
+.works h1{
+    text-align: center;
+    color:black;
+}
+#photo a{
+ text-align: left;
+}
+#street{
+    position: relative;
+    /*display: flex;*/
+    transform: translateX(60em)
+    translateY(-15em);
+}
+#plumbing{
+    position: relative;
+    /*display: flex;*/
+    transform: translateX(32em)
+    translateY(-15em);
+}
+.works{
+    color: white;
+    background-color: rgba(116, 76, 76, 0.788);
+    padding-top: 2em;
+}
+
+#photo{
+    transform: translateY(3em)
+    translateX(8em);
+}
+.contact{
+    background-color: rgb(173, 95, 95);
+    padding-top: 2em;
+    align-items: center;
+}
+.contact p{
+    text-align: center;
+}
+#one{
+    position: relative;
+    transform: translateX(10em);
+}
+#two{
+ position: relative;
+ transform: translate(30em,-3em);
+}
+#three{
+    position: relative;
+    transform: translate(50em,-6em);
+}
+#four{
+    position: relative;
+    transform: translate(70em,-9em);
+}
