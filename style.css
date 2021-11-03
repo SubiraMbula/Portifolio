@@ -40,7 +40,7 @@ ul li{
     transform: translate(-8em,-2em);
 }
 .main1{
-    background-color: rgba(78, 58, 58, 0.795);
+    background-color: rgba(78, 58, 58, 0.884);
     color: white;
     padding-top: 5em;
     padding-bottom: 5em;
@@ -56,13 +56,10 @@ ul li{
     color: black;
 }
 #background{
-    border-right: black;
-    border-style: solid;
-    border-top: 0em;
-    border-bottom: 0em;
-    border-left: 0em;
+    margin-right: 0.1ch,solid black;
     transform: translateX(5em)
      translateY(2em)
+    
     
 }
 .main2{
@@ -97,7 +94,7 @@ ul li{
 }
 .works{
     color: white;
-    background-color: rgba(116, 76, 76, 0.788);
+    background-color: rgba(116, 76, 76, 0.63);
     padding-top: 2em;
 }
 
