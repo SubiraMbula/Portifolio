@@ -131,3 +131,6 @@ ul li{
     position: relative;
     transform: translate(70em,-9em);
 }
+@media screen and (min-width: 360) and (min-height:640){
+
+}
