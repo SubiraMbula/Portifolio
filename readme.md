@@ -19,7 +19,8 @@ This project shows only a landing page of my portifolio that one can navigate ea
 1. On your own github account you can fork the repository so as to access it anytime and anywhere.
 ## HOW TO USE THE PROJECT
 ---
-1. click on the live link deployed on git hub
+1. click on the live link deployed on git hub as shown below:
+
 ---
 2. The opened link will look as the one shown below;
 ---
