@@ -28,4 +28,5 @@ This project shows only a landing page of my portifolio that one can navigate ea
 4. One can then click on the live link in the repository to see the outline of the project. 
 ---
 ## THE LIVE DEMO BELOW SHOWS HOW TO PROCEED WITH THE ABOVE PROCEEDURES:
+----
 <video src="./images/live.mp4">
