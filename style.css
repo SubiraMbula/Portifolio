@@ -77,7 +77,7 @@ ul li{
     background-color:rgb(174,191,234);
     color: black;
     padding-top: 4em;
-    padding-bottom: 10em;
+    padding-bottom: 9em;
     text-align: center;
     font-size: 22px;
 }
@@ -88,6 +88,8 @@ ul li{
     background-color: rgb(240,241,246);
     margin-top: auto;
     margin-bottom: auto;
+    padding-top: 2em;
+    padding-bottom: 7em;
 }
 
 .main2 h1{
@@ -113,12 +115,12 @@ ul li{
 .main2 .container .row .col p{
     text-align: center;
     display: block;
-    font-size: 28px;
+    font-size: 20px;
 }
 
 .main2 .container .row .col .hob{
     text-align: center;
-    font-size: 28px;
+    font-size: 20px;
 }
 .container{
     margin-right: auto;
@@ -127,13 +129,46 @@ ul li{
 }
 
 .works{
-    margin: 0;
-    padding: 0;
+    background-color: rgb(174,191,234);
     margin-left: auto;
     margin-right: auto;
+    padding-top: 2em;
+    padding-bottom: 12em;
 }
 .works h1{
     text-align: center;
     margin-top: 2%;
     margin-bottom: 2%;
+}
+.contact{
+    text-align: center;
+    background-color: white;
+    padding-top: 2em;
+    padding-bottom: 3em;
+}
+.contact p{
+    font-size: 20px;
+}
+.hob{
+    list-style-type: none;
+}
+#one {
+    position: relative;
+    float: left;
+}
+.contact img{
+    height: 5rem;
+    width: 5rem;
+}
+#two{
+    position: relative;
+    transform: translateX(-25rem);
+}
+#three{
+    position: relative;
+    transform: translate(5em,-5em);
+}
+#four{
+    position: relative;
+    transform: translate(33em,-10em);
 }
