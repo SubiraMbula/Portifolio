@@ -1,0 +1,139 @@
+*{
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    width:auto;
+    height: auto;
+}
+
+.navbar{
+    width: auto;
+}
+nav{
+    background-color: rgb(240,241,246);
+    width: 100%;
+    font-size: 16px;
+    display: flex;
+    text-align: center;
+    padding-top: 2em;
+    padding-bottom: 1%; 
+
+} 
+
+.navbar .navigation a{
+    text-decoration: none;
+}
+
+ul{
+    list-style-type: none;
+    overflow: visible;
+    background-color: inherit;
+}
+
+ul li{
+    justify-content: space-between;
+    float: right;
+    
+}
+.navigation a{
+    text-align: center;
+    color: black;
+    padding: 4em;
+    
+}
+
+.main1 .main-whole{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.main1 .main-whole .main-heading{
+    text-align: center;
+    margin-top:auto;
+}
+
+.main1 .main-whole .main-body{
+    text-align: right;
+    margin: 3% 3%;
+}
+
+.main1 .main-whole .main-body p{
+    width: auto;
+    display: flex;
+    text-align: justify;
+    overflow: wrap;
+    margin-left: auto;
+    margin-right: 3%;
+    font-size: 24px;
+}
+/* #subby img{
+    border-radius: 50%;
+    float: right;
+    transform: translate(-3em,-2em);
+} */
+.main1{
+    background-color:rgb(174,191,234);
+    color: black;
+    padding-top: 4em;
+    padding-bottom: 10em;
+    text-align: center;
+    font-size: 22px;
+}
+
+.main2{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(240,241,246);
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.main2 h1{
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2.5%;
+}
+
+.main2 .container .row{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.main2 .container .row .col h2{
+    text-align: center;
+    margin-bottom: 2.5%;
+    font-size: 35px; 
+    color: blueviolet;   
+}
+
+.main2 .container .row .col p{
+    text-align: center;
+    display: block;
+    font-size: 28px;
+}
+
+.main2 .container .row .col .hob{
+    text-align: center;
+    font-size: 28px;
+}
+.container{
+    margin-right: auto;
+    margin-left: auto;
+    align-items: center;
+}
+
+.works{
+    margin: 0;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+.works h1{
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
